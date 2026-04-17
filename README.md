@@ -1,4 +1,4 @@
-# Yashar Heidari â€” SEO & Content Marketing Specialist Portfolio
+# Yashar Heidari — SEO & Content Marketing Specialist Portfolio
 
 Topical authority, technical SEO, and AI-assisted editorial at scale.
 
@@ -13,7 +13,7 @@ SEO & Content Marketing Specialist with 5 years of experience scaling organic tr
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/seo-content-marketing
